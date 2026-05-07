@@ -46,7 +46,7 @@ O projeto foi construído seguindo padrões de mercado para garantir código lim
 - `PUT /cenarios/{id}` - Modifica detalhes do cenário (ex: período ou tipo de local).
 - `DELETE /cenarios/{id}` - Remove um cenário do sistema.
 
-⚙️ Como Executar
+### ⚙️ Como Executar
 
 1. Clonar o Repositório
 2. Configure o banco de dados no application.properties
