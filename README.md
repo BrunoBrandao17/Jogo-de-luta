@@ -45,3 +45,12 @@ O projeto foi construído seguindo padrões de mercado para garantir código lim
 - `POST /cenarios` - Cadastra um novo cenário.
 - `PUT /cenarios/{id}` - Modifica detalhes do cenário (ex: período ou tipo de local).
 - `DELETE /cenarios/{id}` - Remove um cenário do sistema.
+
+⚙️ Como Executar
+
+1. Clonar o Repositório
+2. Configure o banco de dados no application.properties
+3. Configurar o Banco de Dados (CREATE DATABASE jogo;)
+4. Executar: mvn spring-boot:run
+
+Desenvolvido por Bruno Machado Brandão 📩Brunomachad17@gmail.com 🚀
